@@ -1,7 +1,7 @@
 
 # Spam Email Classifier using Logistic Regression
 
-## 🚀 Overview
+##  Overview
 
 This project is a **Spam Email Classifier** built using **Logistic Regression**, a popular classification algorithm in Machine Learning. The goal is to automatically classify emails as either **Spam (1)** or **Ham (0)** based on their content.
 
@@ -9,7 +9,7 @@ It’s a part of my Week 2 Mini Project, and it demonstrates the end-to-end proc
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The dataset used is the famous **SMS Spam Collection Dataset**, which contains 5,572 labeled messages collected from various sources.
 
@@ -22,9 +22,9 @@ Each entry contains:
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
-- **Programming Language**: Python 🐍
+- **Programming Language**: Python 
 - **Libraries Used**:
   - `pandas` and `numpy` for data manipulation
   - `scikit-learn` for modeling and evaluation
@@ -32,7 +32,7 @@ Each entry contains:
 
 ---
 
-## 📌 Project Steps
+##  Project Steps
 
 1. **Load and Explore Dataset**
    - Clean and analyze the data
@@ -53,18 +53,18 @@ Each entry contains:
 
 ---
 
-## 📊 Model Performance
+##  Model Performance
 
 - **Accuracy**: 98.39%
 - **Precision (Spam)**: 97%
 - **Recall (Spam)**: 91%
 - **F1-Score (Spam)**: 94%
 
-✅ The model performs very well, especially in correctly identifying ham messages, with only a few spam emails missed.
+ The model performs very well, especially in correctly identifying ham messages, with only a few spam emails missed.
 
 ---
 
-## 📈 Visualization
+##  Visualization
 
 - Confusion Matrix Heatmap
 
